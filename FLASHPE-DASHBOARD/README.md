@@ -19,7 +19,7 @@ This Power BI dashboard was built during my internship at FlashPe, using real ca
 - 📊 **Revenue by Date (Line Chart)** – visualizes daily sales trends  
 - 🍕 **Products Sold (Pie Chart)** – shows percentage share of products  
 - 📦 **Quantity by Category (Pie Chart)** – illustrates category-wise product sales  
-- 🧃 **Category-wise Revenue (Stacked Column Chart)** – compares revenue across food categories
+- 🧃 **Category-wise Revenue (Clustered Bar Chart)** – compares revenue across food categories
 
 📌 Key Takeaway
 Though based on a simple dataset with limited columns, this dashboard delivers clear, interactive insights that help stakeholders monitor sales trends and make informed cafeteria management decisions.
