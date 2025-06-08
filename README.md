@@ -31,5 +31,5 @@ This repository showcases the dashboards I’ve built to analyze real-world data
 
  📩 Let's Connect!
 I’m actively seeking roles related to Data Analysis or BI Development.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vikasbachu) 
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/bachu-vikas) 
 
