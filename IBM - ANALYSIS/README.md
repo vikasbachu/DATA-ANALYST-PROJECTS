@@ -1,6 +1,6 @@
 #IBM HR Data Analysis using SQL
 Project Overview
-This project performs an in-depth analysis of the IBM HR dataset using structured SQL queries. The primary objective is to uncover valuable insights related to employee attrition, income trends, satisfaction levels, and departmental performance. The project demonstrates the application of SQL best practices including advanced querying, window functions, Common Table Expressions (CTEs), and stored procedures.
+This project performs an in-depth analysis of the IBM HR dataset using structured SQL queries. The primary objective is to uncover valuable insights related to employee attrition, income trends, satisfaction levels, and departmental performance. The project demonstrates the application of SQL best practices including advanced querying, window functions, Common Table Expressions (CTEs), and stored procedures. Dataset from kaggle.
 
 Key Features
 Data Cleaning: Filtering out incomplete records using IS NOT NULL checks to ensure data integrity.
