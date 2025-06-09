@@ -38,7 +38,8 @@ IBM HR Data Analysis (SQL Project)
   - Grouping, ranking, and window functions.
   - Advanced aggregation and conditional logic.
   - Stored procedures to dynamically fetch top earners.
-- **File:** [`IBM HR DATA ANALYSIS.sql`](./IBM%20HR%20DATA%20ANALYSIS.sql)
+- **File:** [IBM HR DATA ANALYSIS.sql](./IBM%20HR%20DATA%20ANALYSIS.sql)
+
 
 Skills Demonstrated
 - Power BI Dashboard Design
