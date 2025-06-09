@@ -1,45 +1,53 @@
-This repository contains a collection of end-to-end data analysis projects using Power BI, Power Query, DAX, and SQL. Each project focuses on real-world datasets and demonstrates the process of data extraction, cleaning, transformation, visualization, and actionable insights generation.
+# Data Analyst Projects Portfolio
+
+Welcome to my Data Analyst projects portfolio! 
+This repository showcases the dashboards I’ve built to analyze real-world datasets, extract meaningful insights, and present data-driven stories visually. Each project demonstrates my skills in Power BI, including data modeling, DAX, Power Query, and visualization design.
 
 Projects Included
-1. Airbnb Data Analysis
-Tools Used: Power BI, Power Query, DAX
-Data Source: CSV files (Calendar, Listings, Reviews)
-Key Features:
-Combined and related three datasets using ID as a primary key.
-Performed extensive data cleaning and transformation using Power Query.
-Built interactive dashboards showcasing revenue trends, pricing strategies, availability, and customer reviews.
 
-2. Zomato Data Analysis
-Tools Used: Power BI, Power Query, DAX
-Data Source: CSV files
-Key Features:
-Cleaned and transformed Zomato restaurant data.
-Created dashboards analyzing restaurant ratings, locations, cuisines, pricing, and delivery trends.
-Provided insights into customer preferences and market distribution.
-
-3. FlashPe Sales Analysis
-Tools Used: Power BI, Power Query
-Data Source: Internal sales data
-Key Features:
-Cleaned FlashPe transactional data using Power Query.
-Analyzed sales patterns, payment trends, and category-wise performance.
-Delivered actionable dashboards to track business growth and key KPIs.
-
-4. IBM HR Data Analysis
-Tools Used: SQL
-Data Source: SQL table
-Key Features:
-Loaded data into SQL tables and applied cleaning operations.
-Performed advanced SQL analysis using aggregate functions, GROUP BY, CASE, RANK(), CTEs, and stored procedures.
-Analyzed attrition rates, income trends, satisfaction levels, department-wise performance, and identified at-risk employees.
+[AIRBNB Dashboard](./AIRBNB-DASHBOARD)
+- **Overview:** Analyzes Airbnb listings across neighborhoods and accommodation types.
+- **Insights:** Revenue trends, average prices, and ratings distribution.
+- **Highlights:** Dynamic slicers, KPIs, line and column charts.
+- ![Airbnb Overview](./AIRBNB-DASHBOARD/AIRBNB%20OVERVIEW.png)
 
 
+[FLASHPE Dashboard](./FLASHPE-DASHBOARD)
+- **Overview:** Internal sales analytics dashboard for FlashPe (F&B partner of WeWork).
+- **Insights:** Revenue performance, product metrics, and customer trends.
+- **Highlights:** Real-time overview, sleek visual storytelling.
+- ![FlashPe Overview](./FLASHPE-DASHBOARD/FLASHPE%20OVERVIEW.png)
 
-Key Skills Demonstrated
-Data Cleaning & Transformation
-Relationship Building Across Tables
-Power Query M Code
-DAX Calculations
-Interactive Power BI Dashboards
-sQL Querying and Procedures
-Business Insights Generation
+
+[ZOMATO Dashboard](./ZOMATO-DASHBOARD)
+- **Overview:** Deep dive into restaurant data from Zomato.
+- **Insights:** Order volumes, location-based revenue, and restaurant ratings.
+- **Highlights:** Geographic insights, clean design, high readability.
+- ![Zomato Overview](./ZOMATO-DASHBOARD/ZOMATO%20OVERVIEW.png)
+
+
+IBM HR Data Analysis (SQL Project)
+- **Overview:** Performed detailed HR analytics using SQL on IBM employee data.
+- **Insights Extracted:**
+  - Attrition rates and key factors driving employee exits.
+  - Work-life balance vs. attrition trends.
+  - Income analysis by job roles and departments.
+  - Age group distribution and employee demographics.
+  - Identification of high-risk employees with low satisfaction and overtime.
+- **SQL Techniques Used:**
+  - Grouping, ranking, and window functions.
+  - Advanced aggregation and conditional logic.
+  - Stored procedures to dynamically fetch top earners.
+- **File:** [`IBM HR DATA ANALYSIS.sql`](./IBM%20HR%20DATA%20ANALYSIS.sql)
+
+Skills Demonstrated
+- Power BI Dashboard Design
+- Data Cleaning & Shaping (Power Query)
+- DAX for KPIs and Measures
+- Visual Storytelling
+- Real-world Data Analysis
+
+Let's Connect!
+I’m actively seeking roles related to Data Analysis or BI Development.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/bachu-vikas) or check out my other work on [GitHub](https://github.com/vikasbachu).
+
