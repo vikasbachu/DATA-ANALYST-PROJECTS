@@ -1,4 +1,4 @@
-DATA ANALYST Projects Portfolio
+DATA ANALYST PROJECTS PORTFOLIO
 
 Welcome to my Power BI project portfolio! 👋  
 This repository showcases the dashboards I’ve built to analyze real-world datasets, extract meaningful insights, and present data-driven stories visually. Each project demonstrates my skills in Power BI, including data modeling, DAX, Power Query, and visualization design.
