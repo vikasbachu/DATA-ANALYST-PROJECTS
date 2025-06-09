@@ -1,2 +1,2 @@
 DATA ANALYST-PROJECTS
-This repository contains Power BI dashboards for Zomato, Airbnb, and FlashPe sales analysis.
+This repository contains Power BI dashboards for Zomato, Airbnb, FlashPe sales analysis, IBM analysis using SQL
